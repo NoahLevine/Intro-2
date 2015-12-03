@@ -8,12 +8,12 @@ import java.util.*;
  * you saved this file, and run "javac Intro.java" followed by "java Intro" if
  * "javac" didn't produce any errors.
  */
-public class Main {
+public class Repoxitory{
 
     /**
      * The "main()" method is where Java knows to start our program.
      */
     public static void main(String[] args) {
-        System.out.println("Hi from repoxitory!");
+        System.out.println("Hi from Repoxitory!");
     }
 }
